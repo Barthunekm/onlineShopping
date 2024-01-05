@@ -3,17 +3,18 @@
     flex-direction:column;
     justify-content: center;
     align-items: center;
-   gap: 50px;
+     gap: 50px;
 }
 .footer-logo{
     display: flex;
     align-items: center;
     gap: 20px;
+    height: 200px;
 }
 .footer-logo p{
     color: #383838;
-    font-size: 46px;
-    font-weight: 700;
+    font-size: 25px;
+    font-weight: 500;
 }
 .footer-links{
     display: flex;
